@@ -89,11 +89,11 @@ const BTSSIOPage = () => {
           {/* Lien de téléchargement du document Excel */}
           <div className="bg-white rounded-lg shadow-md p-6 text-center">
             <a
-              href="/documents/Arthur_Briot_e4.xlsx"
+              href="/documents/Arthur_Briot_e5.xlsx"
               download
               className="text-blue-500 hover:underline"
             >
-              Télécharger le tableau de synthèse Epreuve E4
+              Télécharger le tableau de synthèse Epreuve E5
             </a>
           </div>
         </div>
