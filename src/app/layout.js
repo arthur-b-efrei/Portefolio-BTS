@@ -13,12 +13,6 @@ const geistMono = Geist_Mono({
   display: "swap",
 });
 
-// export const metadata = {
-//   title: "PORTEFOLIO",
-//   description: "Portefolio BTS SIO de Arthur Briot",
-//   viewport: "width=device-width, initial-scale=1",
-// };
-
 export default function RootLayout({ children }) {
   return (
     <html lang="fr" suppressHydrationWarning>
